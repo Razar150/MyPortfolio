@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "7": "^0.0.1",
+    "firebase": "^10.6.0",
+    "powershell": "^2.3.2"
+  }
+}

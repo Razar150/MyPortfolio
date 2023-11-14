@@ -305,13 +305,14 @@ body {
 
 .about .content .col-right {
   position: relative;
-  width: 50%;
+  width: 60%;
+  margin-right: 60px;
 }
 
 .about .content .col-left .img-card {
   position: relative;
-  width: 100%;
-  min-height: 450px;
+  width: 500px;
+  height: 500px;
 }
 
 .about .content .col-left .img-card img {
@@ -396,17 +397,17 @@ body {
 }
 
 .skills .content .col-right .bar .html:before {
-  width: 95%;
+  width: 90%;
   background: #e45126;
 }
 
 .skills .content .col-right .bar .css:before {
-  width: 90%;
+  width: 80%;
   background: #0c73b8;
 }
 
 .skills .content .col-right .bar .javascript:before {
-  width: 80%;
+  width: 70%;
   background: #e3a324;
 }
 

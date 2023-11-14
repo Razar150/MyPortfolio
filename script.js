@@ -63,7 +63,7 @@ function reveal() {
 document.getElementById("downloadButton").addEventListener("click", function() {
   // Create a link element
   var link = document.createElement("a");
-  link.href = "C:\Users\raxit\Downloads\Rakshith_CV.pdf";
+  link.href = "./images/Rakshith_CV.pdf";
   link.download = "Rakshith_CV.pdf";
 
   // Trigger the download
